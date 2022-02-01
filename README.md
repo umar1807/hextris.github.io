@@ -1,4 +1,4 @@
-hextris.github.io
+tutor.hextris
 =================
 
 Hextris' Site
